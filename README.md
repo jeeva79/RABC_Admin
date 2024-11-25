@@ -77,3 +77,32 @@ A robust web application designed for managing users, roles, and permissions eff
 4. **Run the app:**
 
        npm start
+
+
+### Usage
+
+ Once the app is running, you can navigate to the following pages:
+
+- Dashboard: Overview of users, roles, and permissions.
+- User Management: Add, edit, delete users, and manage their roles and statuses.
+- Role Management: Define roles, assign permissions, and edit role details.
+- Login Page: Log in to access the dashboard.
+
+  
+### Available Scripts
+
+In the client/ directory, you can run the following scripts:
+
+    npm start
+    
+Runs the app in development mode. Open http://localhost:3000 to view it in the browser.
+
+    npm run build
+    
+Builds the app for production to the build folder. Optimizes the build for the best performance.
+
+    npm test
+    
+Launches the test runner in interactive watch mode.   
+
+---------------------------------
