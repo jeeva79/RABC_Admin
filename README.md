@@ -8,7 +8,7 @@ A robust web application designed for managing users, roles, and permissions eff
 - [Installation](#installation)
 - [Usage](#usage)
 - [Available Scripts](#available-scripts)
-- 
+
 ## Project Structure
 
     Admin-dashboard/
